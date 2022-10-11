@@ -1,4 +1,4 @@
-# tugas_10_php
+# Tugas 10 PHP
 
 Membuat <b>Bilangan Array Acak Menjadi Sesuai Urutan Dengan Sort dan For.</b>
 
